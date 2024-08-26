@@ -1,4 +1,4 @@
-# cs230
+# Project Journal
 
 The Gaming Room is a media company seeking to expand their game Draw It or Lose It from Android to a web-based version on multiple platforms. The game must have the option to create multiple teams and players, which must be unique. The game generates an image, for which each team is given the option to guess what it is within a given time frame. Only one instance of the game can exist at any time in the memory, which must be ensured by creating unique identifiers for each instance of the game, team, and players.<br />
 <br />
